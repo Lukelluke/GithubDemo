@@ -1,7 +1,5 @@
 # GithubDemo
 测试desktop版上传代码
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 #再测试一下再本地电脑上修改.md
 
@@ -10,7 +8,5 @@
 
 
 #没事，sublime也行
-
-
-#没事，sublime也行
-
+=======
+>>>>>>> parent of 75166f2... Update README.md
